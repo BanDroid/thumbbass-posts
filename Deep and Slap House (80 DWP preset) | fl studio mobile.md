@@ -11,7 +11,7 @@ Download preset :
 TOOLS :
 Daw : "fl studio mobile 4"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wWWLlxDXdIo?si=sCEQ0CWA6zETscjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width: 100% !important;height: auto;" src="https://www.youtube.com/embed/wWWLlxDXdIo?si=sCEQ0CWA6zETscjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
